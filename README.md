@@ -1,7 +1,7 @@
 # Hi there, I'm Aakash Pandey! 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Followers&style=social)](https://github.com/your-username)
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=your-username)](https://github.com/your-username)
+[![GitHub followers](https://img.shields.io/github/followers/AakashHubGit?label=Followers&style=social)](https://github.com/AakashHubGit)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=AakashHubGit)](https://github.com/AakashHubGit)
 
 ---
 
@@ -19,7 +19,6 @@
 
 ### Programming Languages:
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
 
 ### Web Development:
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
